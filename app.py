@@ -7,7 +7,7 @@ import google.generativeai as genai
 from sentence_transformers import SentenceTransformer
 import faiss
 from pypdf import PdfReader
-
+# hello
 # ================= LOAD ENV =================
 load_dotenv()
 API_KEY = os.getenv("GOOGLE_API_KEY")
